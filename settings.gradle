@@ -1,0 +1,2 @@
+rootProject.name = "Supletorio_GooglePlaces"
+include ':app'
